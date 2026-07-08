@@ -135,14 +135,12 @@ An AI-powered productivity browser extension that blocks distracting websites, m
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=abhisheksah9910&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisheksah9910&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abhisheksah9910&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhisheksah9910&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abhisheksah9910&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=abhisheksah9910&theme=tokyonight&hide_border=true" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhisheksah9910&theme=tokyo-night&hide_border=true" width="95%" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=abhisheksah9910&theme=tokyonight&no-frame=true&row=1&column=7" width="95%" />
 
 </div>
 
@@ -164,7 +162,6 @@ An AI-powered productivity browser extension that blocks distracting websites, m
 
 <img src="https://raw.githubusercontent.com/abhisheksah9910/abhisheksah9910/output/github-contribution-grid-snake-dark.svg" width="95%" />
 
-<sub>⚙️ Requires a one-time GitHub Action setup — see the note at the bottom of this file.</sub>
 
 </div>
 
